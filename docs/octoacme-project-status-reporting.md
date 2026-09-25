@@ -5,9 +5,9 @@ Provide a consistent, evidence-based update on delivery progress, upcoming work,
 
 ## Cadence and Ownership
 
-- The Project Manager prepares the weekly delivery status update and coordinates input from the Product Manager, developers, QA, and dependency owners.
+- The Project Manager prepares delivery status updates on the cadence agreed in the project's communication plan and coordinates input from the Product Manager, developers, QA, and dependency owners.
 - Project teams review progress and blockers in daily standups and the weekly delivery sync.
-- Stakeholders receive updates weekly or at milestone boundaries; the Project Manager escalates material issues outside that cadence when needed.
+- Stakeholders receive the monthly updates defined in the project-management overview unless the agreed communication plan specifies a different cadence; the Project Manager escalates material issues outside that cadence when needed.
 
 ## Inputs
 
