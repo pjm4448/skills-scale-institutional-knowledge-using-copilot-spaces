@@ -16,6 +16,7 @@ OctoAcme uses a lightweight, iterative project management approach that emphasiz
 - [Project Management Overview](./octoacme-project-management-overview.md)
 - [Project Initiation](./octoacme-project-initiation.md)
 - [Project Planning](./octoacme-project-planning.md)
+- [Project Status Reporting](./octoacme-project-status-reporting.md)
 - [Execution & Tracking](./octoacme-execution-and-tracking.md)
 - [Risk Management & Communication](./octoacme-risks-and-communication.md)
 - [Release & Deployment](./octoacme-release-and-deployment.md)
