@@ -23,6 +23,7 @@ OctoAcme uses a lightweight, iterative project management approach that emphasiz
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](./octoacme-roles-and-personas.md) — responsibilities, goals, and communication patterns for core project roles.
 - [Roles & Personas README](./octoacme-roles-and-personas/README.md)
+- [Project Planning README](./octoacme-project-planning/README.md)
 
 ## Alphabet
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
