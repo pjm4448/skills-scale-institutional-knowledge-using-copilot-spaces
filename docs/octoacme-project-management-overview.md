@@ -44,3 +44,4 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- See the [Project Management Overview companion README](./octoacme-project-management-overview/README.md) for supporting information.
